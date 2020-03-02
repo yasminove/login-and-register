@@ -1,10 +1,8 @@
- body {
-/*    margin: 70px 0px;*/
-} 
+
 form {
-	
+
     border: 1px solid #ccc;
-	border-radius: 2px;
+	  border-radius: 2px;
     width: 30%;
     height: 470px;
     margin: 70px 420px;
@@ -12,7 +10,6 @@ form {
 }
 
 input[type=text], [type=email], input[type=password]{
-    /* width: 100%;  */
     border: 1px solid #ccc;
     margin: 8px 0;
     display: block;
@@ -28,15 +25,8 @@ button {
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    /* width: 100%; */
     display: block;
-	border-radius: 2px;
-	margin-left: 289px;
-	margin-top: 23px;
-    /* margin: 0 20px; */
-/*    margin: 14px;*/
-/*	padding: 18px;*/
-/*	padding-right: 33px;*/
-/*	margin-left: 75px;*/
-/*	margin-top: 33px;*/
-} 
+  	border-radius: 2px;
+  	margin-left: 289px;
+  	margin-top: 23px;
+}
